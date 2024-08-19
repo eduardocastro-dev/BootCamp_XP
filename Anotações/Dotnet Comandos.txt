@@ -1,0 +1,21 @@
+dotnet new - Cria um novo projeto, configuração ou solução
+dotnet restore - Restaura as dependências do projeto
+dotnet build - Compila o projeto
+dotnet run - Executa o projeto
+dotnet test - Executa testes unitários
+dotnet publish - Publica o aplicativo e suas dependências
+dotnet pack - Cria um pacote NuGet
+dotnet clean - Limpa os arquivos de saída do projeto
+dotnet add package - Adiciona uma referência de pacote ao projeto
+dotnet remove package - Remove uma referência de pacote do projeto
+dotnet add reference - Adiciona uma referência de projeto
+dotnet remove reference - Remove uma referência de projeto
+dotnet list reference - Lista as referências do projeto
+dotnet nuget push - Publica um pacote NuGet para um servidor
+dotnet nuget delete - Remove ou deslista um pacote do servidor NuGet
+dotnet ef - Comandos para Entity Framework Core
+dotnet watch - Executa um comando quando os arquivos são alterados
+dotnet tool install - Instala uma ferramenta global
+dotnet tool uninstall - Desinstala uma ferramenta global
+dotnet tool list - Lista as ferramentas instaladas
+dotnet sln - Modifica uma solução .NET
