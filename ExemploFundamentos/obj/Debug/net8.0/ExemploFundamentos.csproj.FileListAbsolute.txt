@@ -1,0 +1,15 @@
+C:\dev\BootCamp_XP\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.exe
+C:\dev\BootCamp_XP\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.deps.json
+C:\dev\BootCamp_XP\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.runtimeconfig.json
+C:\dev\BootCamp_XP\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.dll
+C:\dev\BootCamp_XP\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.pdb
+C:\dev\BootCamp_XP\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\BootCamp_XP\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\dev\BootCamp_XP\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
+C:\dev\BootCamp_XP\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\dev\BootCamp_XP\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.sourcelink.json
+C:\dev\BootCamp_XP\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.dll
+C:\dev\BootCamp_XP\ExemploFundamentos\obj\Debug\net8.0\refint\ExemploFundamentos.dll
+C:\dev\BootCamp_XP\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
+C:\dev\BootCamp_XP\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
+C:\dev\BootCamp_XP\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll
